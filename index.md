@@ -15,3 +15,6 @@ Oscar | Ja
 Felix | Nej
 Oskar | Ja
 Ricky | Ja
+
+[En länk till Google](http://www.google.com)
+{:#coolLink}
