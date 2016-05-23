@@ -18,3 +18,11 @@ Ricky | Ja
 
 [En länk till Google](http://www.google.com)
 {:#coolLink}
+
+En punktlista
+
+* Mjölk
+* Pizza
+* Hamburgare
+
+Vill ni veta mer, sök efter GitHub Pages och Jekyll. 
